@@ -17,7 +17,7 @@ Program is trained for 30 epochs and runs at 66% accuracy.
 
 Download haarcascades file from here=> https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 
-## Note: fer2013 zipped csv is present in kaggle_datset folder
+### Note: fer2013 zipped csv is present in kaggle_datset folder
 
 ### Usage:
 First Run Emotion_recognition.py => python Emotion_recognition.py</br>
