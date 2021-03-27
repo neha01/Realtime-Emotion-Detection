@@ -21,8 +21,8 @@ Download haarcascades file from here=> https://github.com/opencv/opencv/blob/mas
 http://www.mediafire.com/folder/trbjv7bysiycl/challenges-in-representation-learning-facial-expression-recognition-challenge
 
 ### Usage:
-First Run Emotion_recognition.py => python Emotion_recognition.py</br>
-Then run vidotester.py
+First Run emotion_recognition.py => python emotion_recognition.py</br>
+Then run videoTester.py
 
 ### Acknowledgements:
 * http://sefiks.com/2018/01/01/facial-expression-recognition-with-keras/
